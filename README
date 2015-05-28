@@ -3,7 +3,7 @@
 Created on Fri Nov 07 10:39:02 2014
 
 fisher.py
-Calculates the Fisher information matrix for Gaussian and non-Gaussian cases.
+Calculates the Fisher information matrix for Gaussian and lognormal cases.
 
 @author: Andrew
 """
